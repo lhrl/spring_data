@@ -1,2 +1,2 @@
-# lhrlDemo
-dubbo+springmvc+hibernate
+# spring_data
+jdbc+jdbcTemplate+springdata
