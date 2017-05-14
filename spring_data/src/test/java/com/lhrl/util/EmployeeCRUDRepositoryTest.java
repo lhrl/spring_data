@@ -41,7 +41,7 @@ public class EmployeeCRUDRepositoryTest {
 		employeeService.save(employees);
 	}
 	
-	//@Test
+	@Test
 	public void findAll(){
 		List<Employee> employees=employeeService.finAll();
 		for (Employee employee : employees) {
